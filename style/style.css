@@ -1,0 +1,23 @@
+*{
+           margin: 0px;
+           padding: 0px;     
+}
+.hero{
+           background-image: url('../images/birds.jpg'); 
+           background-repeat: no-repeat; 
+           background-position: left center;
+           background-size: cover; 
+           height:80vh;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+}
+.hero h1{
+         color: azure;    
+         font-size: 100px;
+         text-align: center;
+         font-weight: 500;
+         font-family: cursive;
+        
+
+}
